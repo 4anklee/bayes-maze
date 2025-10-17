@@ -1,0 +1,7 @@
+**/.gradle
+**/.idea
+**/.vscode
+**/.kotlin
+**/build
+**/gradle
+**/.DS_Store
